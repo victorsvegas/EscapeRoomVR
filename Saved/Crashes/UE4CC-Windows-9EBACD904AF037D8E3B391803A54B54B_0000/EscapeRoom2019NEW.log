@@ -1,0 +1,859 @@
+﻿Log file open, 10/25/19 15:07:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EscapeRoom2019NEW
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.175833
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Engine.ini]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Engine.ini]
+[2019.10.25-13.08.03:060][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Engine.ini]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Engine.ini]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.25-13.08.03:060][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.25-13.08.03:061][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.25-13.08.03:061][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.25-13.08.03:061][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.25-13.08.03:061][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.25-13.08.03:061][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Engine.ini]
+[2019.10.25-13.08.03:061][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Engine.ini]
+[2019.10.25-13.08.03:066][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.10.25-13.08.03:066][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.25-13.08.03:067][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.25-13.08.03:068][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.25-13.08.03:068][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.25-13.08.03:225][  0]LogHAL: Display: Platform has ~ 8 GB [8468807680 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.25-13.08.03:225][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.10.25-13.08.03:225][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.25-13.08.03:226][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.25-13.08.03:226][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.25-13.08.03:227][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:227][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.25-13.08.03:228][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.25-13.08.03:229][  0]LogConfig: Setting CVar [[r.GraphicsAdapter:0]]
+[2019.10.25-13.08.03:229][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.25-13.08.03:229][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.25-13.08.03:229][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Config/Windows/Engine.ini]
+[2019.10.25-13.08.03:230][  0]LogInit: Computer: IT007907
+[2019.10.25-13.08.03:230][  0]LogInit: User: mima0019
+[2019.10.25-13.08.03:230][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.25-13.08.03:230][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.25-13.08.03:230][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.10.25-13.08.03:230][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.25-13.08.03:230][  0]LogMemory: Process Physical Memory: 96.95 MB used, 96.96 MB peak
+[2019.10.25-13.08.03:230][  0]LogMemory: Process Virtual Memory: 84.22 MB used, 84.22 MB peak
+[2019.10.25-13.08.03:231][  0]LogMemory: Physical Memory: 2796.04 MB used,  5280.45 MB free, 8076.48 MB total
+[2019.10.25-13.08.03:231][  0]LogMemory: Virtual Memory: 4640.80 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.10.25-13.08.03:324][  0]LogInit: Using OS detected language (en-US).
+[2019.10.25-13.08.03:324][  0]LogInit: Using OS detected locale (sv-SE).
+[2019.10.25-13.08.03:327][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.25-13.08.03:583][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.25-13.08.03:704][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.25-13.08.03:704][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.25-13.08.04:114][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.25-13.08.04:114][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.25-13.08.04:213][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.10.25-13.08.04:213][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.10.25-13.08.04:217][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.25-13.08.04:217][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.25-13.08.04:217][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.25-13.08.04:223][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.25-13.08.04:224][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.25-13.08.04:224][  0]LogWindows: EnumDisplayDevices:
+[2019.10.25-13.08.04:224][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.10.25-13.08.04:224][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.25-13.08.04:225][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.10.25-13.08.04:225][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.10.25-13.08.04:225][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2019.10.25-13.08.04:225][  0]LogD3D11RHI:   Driver Version: 25.20.100.6576 (internal:25.20.100.6576, unified:25.20.100.6576)
+[2019.10.25-13.08.04:225][  0]LogD3D11RHI:      Driver Date: 2-7-2019
+[2019.10.25-13.08.04:225][  0]LogRHI: Texture pool is 1502 MB (70% of 2147 MB)
+[2019.10.25-13.08.04:290][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.25-13.08.04:295][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.25-13.08.04:295][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.25-13.08.04:295][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.10.25-13.08.04:299][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2019.10.25-13.08.04:735][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.25-13.08.04:791][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.25-13.08.04:817][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.25-13.08.04:866][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.25-13.08.04:903][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.25-13.08.04:936][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.25-13.08.04:978][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.25-13.08.05:057][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.25-13.08.05:066][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.25-13.08.05:176][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.25-13.08.05:177][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.25-13.08.05:177][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.25-13.08.05:179][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.25-13.08.05:296][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.25-13.08.05:296][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.25-13.08.05:385][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.25-13.08.05:386][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.25-13.08.05:404][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.25-13.08.05:473][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.25-13.08.05:538][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.25-13.08.05:569][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.25-13.08.05:637][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.25-13.08.05:637][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.25-13.08.05:637][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.25-13.08.05:651][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.25-13.08.05:783][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Intermediate/Shaders/WorkingDirectory/12296/).
+[2019.10.25-13.08.05:783][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mima0019.WAD/AppData/Local/Temp/UnrealShaderWorkingDir/DC32EA4E4CD1634B3D52FB9BAA6218E0/'.
+[2019.10.25-13.08.05:785][  0]LogXGEController: Cleaning working directory: C:/Users/mima0019.WAD/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.10.25-13.08.05:786][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.25-13.08.05:786][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.25-13.08.05:786][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.25-13.08.06:457][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.25-13.08.06:689][  0]LogDerivedDataCache: Loaded boot cache 0.23s 86MB C:/Users/mima0019.WAD/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.25-13.08.06:689][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/mima0019.WAD/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.10.25-13.08.06:694][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.25-13.08.06:694][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.25-13.08.06:697][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.25-13.08.06:697][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.25-13.08.06:718][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.25-13.08.06:718][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.25-13.08.06:718][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.25-13.08.06:731][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mima0019.WAD/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.25-13.08.06:731][  0]LogDerivedDataCache: Found environment variable UE-SharedDataCachePath=P:\VR\UnrealEngine\DDC
+[2019.10.25-13.08.06:751][  0]LogDerivedDataCache: Warning: Fail to write to P:/VR/UnrealEngine/DDC, derived data cache to this directory will be read only.
+[2019.10.25-13.08.06:753][  0]LogDerivedDataCache: Using Shared data cache path P:\VR\UnrealEngine\DDC: Writable
+[2019.10.25-13.08.06:778][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.25-13.08.06:780][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.25-13.08.06:781][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.25-13.08.06:892][  0]LogAssetRegistry: FAssetRegistry took 0.0345 seconds to start up
+[2019.10.25-13.08.07:365][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.25-13.08.07:474][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.25-13.08.07:474][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.25-13.08.07:474][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.25-13.08.07:474][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.25-13.08.07:474][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.25-13.08.07:571][  0]LogNetVersion: EscapeRoom2019NEW 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4125854324)
+[2019.10.25-13.08.09:298][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 1.110163 seconds
+[2019.10.25-13.08.09:308][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.10.25-13.08.09:309][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.10.25-13.08.09:309][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.25-13.08.11:309][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.25-13.08.11:323][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.25-13.08.11:324][  0]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.11:324][  0]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.11:526][  0]SourceControl: Source control is disabled
+[2019.10.25-13.08.11:526][  0]SourceControl: Source control is disabled
+[2019.10.25-13.08.11:532][  0]SourceControl: Source control is disabled
+[2019.10.25-13.08.11:536][  0]SourceControl: Source control is disabled
+[2019.10.25-13.08.11:980][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.25-13.08.12:149][  0]LogOcInput: OculusInput pre-init called
+[2019.10.25-13.08.12:906][  0]LogEngine: Initializing Engine...
+[2019.10.25-13.08.12:907][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.25-13.08.12:921][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.013 s
+[2019.10.25-13.08.13:147][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.25-13.08.13:181][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.25-13.08.13:194][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.25-13.08.13:393][  0]LogInit: FAudioDevice initialized.
+[2019.10.25-13.08.13:394][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.25-13.08.13:505][  0]LogDerivedDataCache: Saved boot cache 0.11s 86MB C:/Users/mima0019.WAD/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.10.25-13.08.13:518][  0]LogInit: Texture streaming: Enabled
+[2019.10.25-13.08.13:541][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.25-13.08.13:542][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={B68C66FA-4A27-190C-411E-A1A68ED87FD3}
+[2019.10.25-13.08.13:599][  0]LogInit: Transaction tracking system initialized
+[2019.10.25-13.08.13:642][  0]BlueprintLog: New page: Editor Load
+[2019.10.25-13.08.13:858][  0]LocalizationService: Localization service is disabled
+[2019.10.25-13.08.14:354][  0]LogFileCache: Scanning file cache for directory 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/' took 0.02s
+[2019.10.25-13.08.14:354][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.25-13.08.14:354][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.25-13.08.14:694][  0]SourceControl: Source control is disabled
+[2019.10.25-13.08.14:694][  0]Cmd: MAP LOAD FILE="H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/VirtualRealityBP/Maps/EscapeRoomMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.25-13.08.14:695][  0]LightingResults: New page: Lighting Build
+[2019.10.25-13.08.14:700][  0]MapCheck: New page: Map Check
+[2019.10.25-13.08.14:700][  0]LightingResults: New page: Lighting Build
+[2019.10.25-13.08.14:732][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.10.25-13.08.23:933][  0]LogAIModule: Creating AISystem for world EscapeRoomMap
+[2019.10.25-13.08.23:965][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.25-13.08.24:104][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.10.25-13.08.24:104][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.25-13.08.24:104][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,338ms to complete.
+[2019.10.25-13.08.24:104][  0]LogFileHelpers: Loading map 'EscapeRoomMap' took 9.410
+[2019.10.25-13.08.24:294][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-13.08.24:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-13.08.24:309][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-13.08.24:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-13.08.24:361][  0]LogCollectionManager: Loaded 0 collections in 0.037513 seconds
+[2019.10.25-13.08.24:396][  0]LogFileCache: Scanning file cache for directory 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Collections/' took 0.01s
+[2019.10.25-13.08.24:396][  0]LogFileCache: Scanning file cache for directory 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/Developers/mima0019/Collections/' took 0.00s
+[2019.10.25-13.08.24:397][  0]LogFileCache: Scanning file cache for directory 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/Collections/' took 0.01s
+[2019.10.25-13.08.24:397][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.25-13.08.24:413][  0]LogContentBrowser: Native class hierarchy populated in 0.0153 seconds. Added 2732 classes and 659 folders.
+[2019.10.25-13.08.24:424][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.10.25-13.08.24:431][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:440][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:441][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:444][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:445][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:452][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:453][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:455][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:457][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:460][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:461][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:463][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:465][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:469][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.10.25-13.08.24:591][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.25-13.08.24:600][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.10.25-13.08.24:658][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.25-13.08.24:660][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.25-13.08.24:666][  0]LogSlate: Took 0.001239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.25-13.08.24:745][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 26 NumSamples 1 (Frame:1).
+[2019.10.25-13.08.24:926][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.25-13.08.24:926][  0]LogLoad: (Engine Initialization) Total time: 33.37 seconds
+[2019.10.25-13.08.24:926][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.25-13.08.25:056][  0]LogAssetRegistry: Asset discovery search completed in 18.1867 seconds
+[2019.10.25-13.08.25:058][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.10.25-13.08.25:058][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2019.10.25-13.08.25:059][  0]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.25:063][  0]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/', and we were unable to create a new request.
+[2019.10.25-13.08.25:063][  0]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.25:064][  0]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/', and we were unable to create a new request.
+[2019.10.25-13.08.25:064][  0]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/Developers/mima0019/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.25:065][  0]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.25:065][  0]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.25:067][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.25-13.08.25:151][  0]LogSlate: Took 0.001130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.25-13.08.25:159][  1]LogFileCache: Retrieving MD5 hashes for directory 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/' took 0.21s
+[2019.10.25-13.08.25:275][  2]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/Developers/mima0019/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.25:276][  2]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/Developers/mima0019/Collections/', and we were unable to create a new request.
+[2019.10.25-13.08.25:276][  2]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.25:277][  2]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/Collections/', and we were unable to create a new request.
+[2019.10.25-13.08.25:277][  2]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/Collections/' because it was empty or there was a buffer overflow. Attemping another request...
+[2019.10.25-13.08.25:277][  2]LogDirectoryWatcher: A directory notification failed for 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/Collections/', and we were unable to create a new request.
+[2019.10.25-13.08.41:188][375]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume5)
+[2019.10.25-13.08.57:498][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.10.25-13.08.58:935][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.10.25-13.09.05:813][980]Cmd: DELETE
+[2019.10.25-13.09.05:813][980]Cmd: ACTOR DELETE
+[2019.10.25-13.09.05:873][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-13.09.10:177][980]LogSlate: Window 'Message' being destroyed
+[2019.10.25-13.09.10:182][980]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.10.25-13.09.10:209][980]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.10.25-13.09.10:209][980]LogEditorActor: Deleted 1 Actors (4.394 secs)
+[2019.10.25-13.09.11:078][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.09.11:892][ 19]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2019.10.25-13.09.22:797][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.09.24:289][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.09.25:020][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.09.27:702][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.09.30:789][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.09.30:833][459]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.10.25-13.09.31:098][464]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.10.25-13.09.31:724][477]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.10.25-13.09.32:318][491]Cmd: TRANSACTION UNDO
+[2019.10.25-13.09.32:319][491]LogEditorTransaction: Undo Clicking on Components
+[2019.10.25-13.09.32:355][491]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.25-13.09.32:909][534]Cmd: TRANSACTION UNDO
+[2019.10.25-13.09.32:909][534]LogEditorTransaction: Undo Clicking on Components
+[2019.10.25-13.09.33:516][580]Cmd: TRANSACTION UNDO
+[2019.10.25-13.09.33:517][580]LogEditorTransaction: Undo Clicking on Components
+[2019.10.25-13.09.34:218][597]Cmd: TRANSACTION UNDO
+[2019.10.25-13.09.34:218][597]LogEditorTransaction: Undo Clicking on Actors
+[2019.10.25-13.09.38:964][702]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2019.10.25-13.09.44:258][827]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-13.09.49:659][963]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.25-13.09.50:401][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.09.51:412][  2]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2019.10.25-13.10.22:222][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.10.23:444][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2019.10.25-13.10.24:180][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2019.10.25-13.10.24:939][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2019.10.25-13.10.25:831][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2019.10.25-13.10.27:302][867]LogEditorViewport: Clicking on Actor (LMB): TriggerVolume (TriggerVolume5)
+[2019.10.25-13.10.44:326][274]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x317)
+[2019.10.25-13.10.46:222][318]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-13.10.46:349][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.10.25-13.10.46:420][318]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] Node  Unknown  is not referencing a valid level actor
+[2019.10.25-13.10.46:427][318]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] [0174,87] Compile of PersistentLevel.EscapeRoomMap successful, but with 1 Warning(s) [in 17 ms] (/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap)
+[2019.10.25-13.10.58:925][318]LogSavePackage: Moving 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/EscapeRoomMap85BB6DF84C3B38620B87CBB40A1359F1.tmp' to 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/VirtualRealityBP/Maps/EscapeRoomMap.umap'
+[2019.10.25-13.11.00:318][318]LogSavePackage: Moving 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/EscapeRoomMap_BuiltData8E8A885D41951EE8A96F6290BABBB32B.tmp' to 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/VirtualRealityBP/Maps/EscapeRoomMap_BuiltData.uasset'
+[2019.10.25-13.11.02:043][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2019.10.25-13.11.04:047][408]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2019.10.25-13.11.05:787][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.11.47:206][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2019.10.25-13.11.48:230][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2019.10.25-13.11.48:842][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2019.10.25-13.11.51:251][492]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2019.10.25-13.12.04:536][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-13.12.06:138][959]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-13.12.06:191][959]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.10.25-13.12.06:210][959]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] Node  Unknown  is not referencing a valid level actor
+[2019.10.25-13.12.06:215][959]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] [0254,66] Compile of PersistentLevel.EscapeRoomMap successful, but with 1 Warning(s) [in 13 ms] (/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap)
+[2019.10.25-13.12.12:572][959]LogSavePackage: Moving 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Saved/EscapeRoomMapA642E76A48AA63DBB6F94C967122C4FB.tmp' to 'H:/ImmersiveMedia/ImmersiveProject_mima0019/EscapeRoom2019NEW/Content/VirtualRealityBP/Maps/EscapeRoomMap.umap'
+[2019.10.25-13.12.12:616][959]LogFileHelpers: Saving map 'EscapeRoomMap' took 6.469
+[2019.10.25-13.12.17:276][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.12.18:193][ 75]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.10.25-13.12.42:856][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_400x400)
+[2019.10.25-13.12.45:503][493]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.12.45:553][494]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.25-13.12.45:570][494]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap'
+[2019.10.25-13.12.45:570][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-13.12.45:574][494]PIE: New page: PIE session: EscapeRoomMap (25 okt 2019 17:12:45)
+[2019.10.25-13.12.45:591][494]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap
+[2019.10.25-13.12.45:626][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031100s)
+[2019.10.25-13.12.45:627][494]LogAIModule: Creating AISystem for world EscapeRoomMap
+[2019.10.25-13.12.45:627][494]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2019.10.25-13.12.45:627][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap (0.035787s)
+[2019.10.25-13.12.45:657][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.10.25-13.12.45:661][494]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.25-13.12.45:681][494]LogInit: FAudioDevice initialized.
+[2019.10.25-13.12.46:593][494]LogLoad: Game class is 'VRPersonGameMode_C'
+[2019.10.25-13.12.46:601][494]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap up for play (max tick rate 0) at 2019.10.25-15.12.46
+[2019.10.25-13.12.46:603][494]LogWorld: Bringing up level for play took: 0.007520
+[2019.10.25-13.12.46:622][494]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2019.10.25-13.12.46:627][494]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap 1,237
+[2019.10.25-13.12.46:627][494]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap'
+[2019.10.25-13.13.00:650][989]LogScript: Warning: Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty
+	EscapeRoomMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap_C_1
+	Function /Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C:ExecuteUbergraph_EscapeRoomMap:0731
+[2019.10.25-13.13.00:651][989]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty". Blueprint:  EscapeRoomMap Function:  Execute Ubergraph Escape Room Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2019.10.25-13.13.03:019][ 58]LogScript: Warning: Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty
+	EscapeRoomMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap_C_1
+	Function /Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C:ExecuteUbergraph_EscapeRoomMap:0731
+[2019.10.25-13.13.03:019][ 58]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty". Blueprint:  EscapeRoomMap Function:  Execute Ubergraph Escape Room Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2019.10.25-13.13.03:823][ 83]LogScript: Warning: Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty
+	EscapeRoomMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap_C_1
+	Function /Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C:ExecuteUbergraph_EscapeRoomMap:0731
+[2019.10.25-13.13.03:823][ 83]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty". Blueprint:  EscapeRoomMap Function:  Execute Ubergraph Escape Room Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2019.10.25-13.13.04:046][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap'
+[2019.10.25-13.13.04:047][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-13.13.04:147][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-13.13.04:147][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap'
+[2019.10.25-13.13.04:205][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-13.13.04:212][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.10.25-13.13.04:220][ 90]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-13.13.04:283][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.10.25-13.13.05:641][127]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-13.13.05:686][127]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-13.13.06:739][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2019.10.25-13.13.07:588][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2019.10.25-13.13.11:515][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x317)
+[2019.10.25-13.13.13:271][318]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2019.10.25-13.13.21:524][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x317)
+[2019.10.25-13.13.24:409][581]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor10)
+[2019.10.25-13.13.28:686][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.14.02:636][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.14.56:528][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Window_400x301)
+[2019.10.25-13.14.57:589][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_400x304)
+[2019.10.25-13.15.12:436][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.15.12:570][251]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.25-13.15.12:589][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap'
+[2019.10.25-13.15.12:589][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.25-13.15.12:589][251]PIE: New page: PIE session: EscapeRoomMap (25 okt 2019 17:15:12)
+[2019.10.25-13.15.12:590][251]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap
+[2019.10.25-13.15.12:644][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055483s)
+[2019.10.25-13.15.12:645][251]LogAIModule: Creating AISystem for world EscapeRoomMap
+[2019.10.25-13.15.12:646][251]LogPlayLevel: PIE: World Init took: (0.001195s)
+[2019.10.25-13.15.12:646][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap (0.056932s)
+[2019.10.25-13.15.12:672][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.10.25-13.15.12:676][251]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.25-13.15.12:696][251]LogInit: FAudioDevice initialized.
+[2019.10.25-13.15.12:729][251]LogLoad: Game class is 'VRPersonGameMode_C'
+[2019.10.25-13.15.12:741][251]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap up for play (max tick rate 0) at 2019.10.25-15.15.12
+[2019.10.25-13.15.12:742][251]LogWorld: Bringing up level for play took: 0.011414
+[2019.10.25-13.15.12:761][251]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap −0,633
+[2019.10.25-13.15.12:761][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap'
+[2019.10.25-13.15.22:046][538]LogScript: Warning: Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty
+	EscapeRoomMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap_C_1
+	Function /Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C:ExecuteUbergraph_EscapeRoomMap:0731
+[2019.10.25-13.15.22:047][538]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty". Blueprint:  EscapeRoomMap Function:  Execute Ubergraph Escape Room Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2019.10.25-13.15.24:959][624]LogScript: Warning: Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty
+	EscapeRoomMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap_C_1
+	Function /Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C:ExecuteUbergraph_EscapeRoomMap:0731
+[2019.10.25-13.15.24:959][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty". Blueprint:  EscapeRoomMap Function:  Execute Ubergraph Escape Room Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2019.10.25-13.15.26:472][670]LogScript: Warning: Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty
+	EscapeRoomMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap_C_1
+	Function /Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C:ExecuteUbergraph_EscapeRoomMap:0731
+[2019.10.25-13.15.26:473][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property None_ExecuteUbergraph_EscapeRoomMap_RefProperty". Blueprint:  EscapeRoomMap Function:  Execute Ubergraph Escape Room Map Graph:  EventGraph Node:  Set Actor Hidden In Game
+[2019.10.25-13.15.33:145][864]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap'
+[2019.10.25-13.15.33:145][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-13.15.33:232][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.25-13.15.33:232][864]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap'
+[2019.10.25-13.15.33:278][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-13.15.33:282][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.10.25-13.15.33:290][864]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-13.15.33:353][865]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.10.25-13.15.42:396][ 82]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-13.15.42:443][ 82]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-13.15.45:276][155]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap
+[2019.10.25-13.15.45:535][155]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 121 classes and 0 folders.
+[2019.10.25-13.15.46:270][155]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.10.25-13.15.46:382][156]LogSlate: Took 0.000903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.25-13.16.38:860][332]BlueprintLog: New page: Compile EscapeRoomMap
+[2019.10.25-13.16.38:897][332]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] Node  Unknown  is not referencing a valid level actor
+[2019.10.25-13.16.39:093][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.10.25-13.16.39:102][332]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] [0527,54] Compile of PersistentLevel.EscapeRoomMap successful, but with 1 Warning(s) [in 241 ms] (/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap)
+[2019.10.25-13.16.43:378][430]BlueprintLog: New page: Compile EscapeRoomMap
+[2019.10.25-13.16.43:406][430]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] Node  Unknown  is not referencing a valid level actor
+[2019.10.25-13.16.43:594][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.10.25-13.16.43:603][430]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] [0532,04] Compile of PersistentLevel.EscapeRoomMap successful, but with 1 Warning(s) [in 224 ms] (/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap)
+[2019.10.25-13.17.15:076][163]BlueprintLog: New page: Compile EscapeRoomMap
+[2019.10.25-13.17.15:099][163]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] Node  Unknown  is not referencing a valid level actor
+[2019.10.25-13.17.15:291][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.10.25-13.17.15:299][163]LogBlueprint: Warning: [Compiler PersistentLevel.EscapeRoomMap] [0563,73] Compile of PersistentLevel.EscapeRoomMap successful, but with 1 Warning(s) [in 222 ms] (/Game/VirtualRealityBP/Maps/EscapeRoomMap.EscapeRoomMap:PersistentLevel.EscapeRoomMap)
+[2019.10.25-13.17.27:297][439]BlueprintLog: New page: Compile EscapeRoomMap
+[2019.10.25-13.17.27:517][439]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.10.25-13.17.30:567][512]LogSlate: Window 'EscapeRoomMap' being destroyed
+[2019.10.25-13.17.30:610][512]LogSlate: Window 'EscapeRoomMap' being destroyed
+[2019.10.25-13.17.33:236][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-13.17.36:133][645]MapCheck: New page: Map Check
+[2019.10.25-13.17.36:145][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-13.17.36:148][645]Cmd: MAP REBUILD ALLVISIBLE
+[2019.10.25-13.17.36:148][645]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.10.25-13.17.36:352][645]LightingResults: New page: Lighting Build - 25 okt 2019 17:17:36
+[2019.10.25-13.17.36:838][645]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.25-13.17.37:075][645]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.25-13.17.37:137][645]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.25-13.17.37:653][645]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.25-13.17.37:654][645]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12296
+[2019.10.25-13.17.40:636][645]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.25-13.17.40:636][645]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.25-13.17.40:636][645]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.25-13.17.40:636][645]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.25-13.17.40:636][645]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.25-13.17.40:927][645]LogEditorBuildUtils: Build time 0:04
+[2019.10.25-13.17.40:978][646]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_HandMat, compiling. 
+[2019.10.25-13.17.41:018][646]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_HandMat, compiling. 
+[2019.10.25-13.17.42:325][652]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2019.10.25-13.18.30:583][667]Job is a success!
+[2019.10.25-13.18.31:123][668]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.023s
+[2019.10.25-13.18.31:123][668]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.25-13.18.31:123][668]LogVolumetricLightmapImport:      BrickData 440x5x5 = 0.4Mb
+[2019.10.25-13.18.31:123][668]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.25-13.18.31:123][668]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.10.25-13.18.31:123][668]LogVolumetricLightmapImport:          1: 9.1% covering 12.5% of volume
+[2019.10.25-13.18.31:123][668]LogVolumetricLightmapImport:          2: 89.8% covering 1.9% of volume
+[2019.10.25-13.18.31:523][668]LightingResults: Warning: PointLight7_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.25-13.18.31:523][668]LightingResults: Warning: PointLight18_2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.25-13.18.31:523][668]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.25-13.18.31:523][668]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.25-13.18.31:523][668]LightingResults: Warning: PointLight10_12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.25-13.18.31:523][668]LightingResults: Warning: PointLight14 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.10.25-13.18.34:286][668]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2019.10.25-13.18.34:286][668]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2019.10.25-13.18.34:286][668]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.10.25-13.18.34:286][668]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.10.25-13.18.34:286][668]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.10.25-13.18.34:286][668]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.10.25-13.18.34:286][668]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2019.10.25-13.18.34:286][668]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2019.10.25-13.18.34:487][668]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.10.25-13.18.34:562][668]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2019.10.25-13.18.34:562][668]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2019.10.25-13.18.34:606][668]Lightmass on IT007907: 50.3 sec total, 596 ms importing, 176 ms setup, 6.98 sec photons, 42.4 sec processing, 0 ms extra exporting [80/80 mappings]. Threads: 2:49 min total, 1:42 min processing.
+[2019.10.25-13.18.34:625][668]LogStaticLightingSystem: EscapeRoomMap_BuiltData storing lightmap data for 78 meshes in 4 LightmapResourceClusters (19.5 Meshes per cluster).
+[2019.10.25-13.18.34:635][668]LogMaterial: Warning: Material /Game/VirtualReality/Mannequin/Character/Materials/M_HandMat.M_HandMat needed to have new flag set bUsedWithStaticLighting !
+[2019.10.25-13.18.34:690][668]LogMaterial: Display: Missing cached shader map for material M_HandMat, compiling. 
+[2019.10.25-13.18.34:905][668]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.10.25-13.18.34:973][668]LogStaticLightingSystem: Illumination: 58.3 sec (2.76 sec encoding lightmaps, 272 ms encoding shadowmaps)
+[2019.10.25-13.18.34:973][668]LogStaticLightingSystem: Lightmap texture memory:  12.0 MB (4.0 MB streaming, 8.0 MB non-streaming), 8 textures
+[2019.10.25-13.18.34:973][668]LogStaticLightingSystem: Shadowmap texture memory: 10.7 MB (5.3 MB streaming, 5.3 MB non-streaming), 3 textures
+[2019.10.25-13.18.35:775][668]DumpUnbuiltLightIteractions
+[2019.10.25-13.18.35:775][668]Lights with unbuilt interactions: 0
+[2019.10.25-13.18.35:775][668]
+[2019.10.25-13.18.35:775][668]Primitives with unbuilt interactions: 0
+[2019.10.25-13.18.45:136][669]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.25-13.18.45:136][669]MapCheck: New page: EscapeRoomMap - 25 okt 2019 17:18:45
+[2019.10.25-13.18.45:169][669]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33,049ms to complete.
+[2019.10.25-13.18.48:131][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.18.54:105][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.18.54:199][903]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-13.18.54:223][903]LogSlate: Window 'Message Log' being destroyed
+[2019.10.25-13.19.02:423][112]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.10.25-13.19.12:250][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall_Door_400x301)
+[2019.10.25-13.19.16:495][470]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.10.25-13.19.50:098][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Shelf)
+[2019.10.25-13.20.16:195][614]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.20.31:523][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.10.25-13.20.40:364][111]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/textblueprint.textblueprint
+[2019.10.25-13.20.43:164][160]LogRenderer: Reallocating scene render targets to support 1208x900 Format 26 NumSamples 1 (Frame:1).
+[2019.10.25-13.21.51:015][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.22.07:485][207]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.22.07:567][209]BlueprintLog: New page: Compile textblueprint
+[2019.10.25-13.22.07:833][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2019.10.25-13.22.09:700][235]LogSlate: Window 'textblueprint' being destroyed
+[2019.10.25-13.22.09:763][235]LogSlate: Window 'textblueprint' being destroyed
+[2019.10.25-13.22.14:951][349]LogEditorViewport: Clicking on Actor (LMB): textBlueprintCLue_C (textBlueprintCLue2)
+[2019.10.25-13.22.16:660][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.22.16:876][385]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/textBlueprintCLue.textBlueprintCLue
+[2019.10.25-13.22.25:124][501]LogSlate: Window 'textBlueprintCLue' being destroyed
+[2019.10.25-13.22.25:202][501]LogSlate: Window 'textBlueprintCLue' being destroyed
+[2019.10.25-13.22.36:570][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.22.48:676][935]LogEditorViewport: Clicking on Actor (LMB): textBlueprintCLue_C (textBlueprintCLue2)
+[2019.10.25-13.22.55:060][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-13.23.41:587][ 38]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.10.25-13.23.41:606][ 38]LogD3D11RHI: Error: D3DDevice failed CreateBuffer VB with ByteWidth=64, BindFlags=0x1 Usage=2, CPUAccess=0x10000, MiscFlags=0x0
+[2019.10.25-13.23.41:606][ 38]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11VertexBuffer.cpp:83 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2019.10.25-13.23.41:606][ 38]LogD3D11RHI: [Aftermath] GDynamicRHI=0000021DB14700C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.10.25-13.23.41:606][ 38]LogWindows: Windows GetLastError: The operation completed successfully. (0)
